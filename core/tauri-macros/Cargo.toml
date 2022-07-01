@@ -1,6 +1,6 @@
 [package]
 name = "tauri-macros"
-version = "1.0.2"
+version = "1.0.3"
 authors = [ "Tauri Programme within The Commons Conservancy" ]
 categories = [ "gui", "os", "filesystem", "web-programming" ]
 license = "Apache-2.0 OR MIT"
